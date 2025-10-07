@@ -1,0 +1,17 @@
+# Node modules
+backend/node_modules/
+gemini-clone/node_modules/
+
+# Env files
+backend/.env
+gemini-clone/.env
+
+# Logs
+*.log
+
+# Build folders
+gemini-clone/build/
+
+# OS files
+.DS_Store
+Thumbs.db
